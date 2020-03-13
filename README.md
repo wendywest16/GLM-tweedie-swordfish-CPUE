@@ -1,0 +1,3 @@
+Catch-per-unit-effort (CPUE) of swordfish (Xiphias gladius) derived from catch and effort data from the South African pelagic longline fleet operating in the South Atlantic and Indian oceans was standardised with generalised linear models (GLMs).
+
+The tweedie model with a Poisson distribution and a log-link function was chosen to model the catch in number of fish/1000 hooks-1. Cluster analysis categorised fishing effort into different fishing tactics based on similarity in the catch composition. Other factors included in the model were season, sea surface temperature (SST), vessel length, latitude, longitude and number of hooks as an offset term.
